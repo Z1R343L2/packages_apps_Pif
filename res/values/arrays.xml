@@ -12,19 +12,19 @@
 
     <!-- Device 1 -->
     <string-array name="device_1" translatable="false">
-        <item></item> <!-- MANUFACTURER -->
-        <item></item> <!-- MODEL -->
-        <item></item> <!-- FINGERPRINT -->
-        <item></item> <!-- BRAND -->
-        <item></item> <!-- PRODUCT -->
-        <item></item> <!-- DEVICE -->
-        <item></item> <!-- RELEASE -->
-        <item></item> <!-- ID -->
-        <item></item> <!-- INCREMENTAL -->
-        <item></item> <!-- TYPE -->
-        <item></item> <!-- TAGS -->
-        <item></item> <!-- SECURITY_PATCH -->
-        <item></item> <!-- DEVICE_INITIAL_SDK_INT -->
+        <item>Google</item> <!-- MANUFACTURER -->
+        <item>Pixel 9 Pro</item> <!-- MODEL -->
+        <item>google/caiman/caiman:14/AD1A.240530.047.U1/12150698:user/release-keys</item> <!-- FINGERPRINT -->
+        <item>google</item> <!-- BRAND -->
+        <item>caiman</item> <!-- PRODUCT -->
+        <item>caiman</item> <!-- DEVICE -->
+        <item>14</item> <!-- RELEASE -->
+        <item>AD1A.240530.047.U1</item> <!-- ID -->
+        <item>12150698</item> <!-- INCREMENTAL -->
+        <item>user</item> <!-- TYPE -->
+        <item>release-keys</item> <!-- TAGS -->
+        <item>2024-08-05</item> <!-- SECURITY_PATCH -->
+        <item>34</item> <!-- DEVICE_INITIAL_SDK_INT -->
     </string-array>
 
 </resources>
